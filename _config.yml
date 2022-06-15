@@ -1,5 +1,5 @@
 site: devnotes
-url:
+url: https://tomcr00ze.github.io/
 title:
 description: some of my notes from dev talks and conferences
 twitter:
@@ -14,7 +14,7 @@ author:
   url:
 permalink: pretty
 
-baseurl: '/devnotes'
+baseurl: '/devnotes/'
 
 highlighter: none
 
