@@ -14,7 +14,7 @@ author:
   url:
 permalink: pretty
 
-baseurl: ''
+baseurl: '/devnotes'
 
 highlighter: none
 
