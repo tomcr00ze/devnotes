@@ -5,7 +5,5 @@ links:
     url: /devnotes/about
   - title: Tags
     url: /devnotes/tags
-  - title: Search
-    url: /devnotes/search
   - title: Rss
     url: /devnotes/atom.xml
