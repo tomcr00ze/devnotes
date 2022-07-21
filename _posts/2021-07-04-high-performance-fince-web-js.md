@@ -4,7 +4,7 @@ title: Building a high performance financial web application with JavaScript - J
 description: A short summary of one team's journey to run a real-time financial calculation engine in the browser using JavaScript. Buffet style (as in food, not Warren) presentation with something for everyone - React & Redux, V8 optimisations, monads and evolving simple design.
 summary: A short summary of one team's journey to run a real-time financial calculation engine in the browser using JavaScript. Buffet style (as in food, not Warren) presentation with something for everyone - React & Redux, V8 optimisations, monads and evolving simple design.
 comments: true
-tags: [javascript, webdev, finance, talks]
+tags: [javascript, webdev, finance]
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EPhArG3It18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
